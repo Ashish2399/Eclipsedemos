@@ -10,7 +10,11 @@ public class fixing1 {
 	Arrays.sort(A);
 	Arrays.sort(B);
 //pull change1
+<<<<<<< HEAD
 	//pushing next here
+=======
+	//pushing first here
+>>>>>>> branch 'master' of https://github.com/Ashish2399/Eclipsedemos.git
 	int i = 0;
 
 	for (int k = 0; k < n && i<m;) {
